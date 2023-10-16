@@ -32,5 +32,5 @@ e) Logistic Regression
 f) Adaboost
 g) XGBoost
 
-
-
+## Data Preparation
+![Data Preparation](https://github.com/PoojithaMPrasad/Heart-Disease/assets/129121710/7dce0454-d97e-4f6c-9863-35ec06ae8e21)
