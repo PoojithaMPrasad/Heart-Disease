@@ -33,4 +33,35 @@ f) Adaboost
 g) XGBoost
 
 ## Data Preparation
+
+Graph Before And After Dropping the Values
 ![Data Preparation](https://github.com/PoojithaMPrasad/Heart-Disease/assets/129121710/7dce0454-d97e-4f6c-9863-35ec06ae8e21)
+
+Dataset after Scaling and Imputing
+![Data Preparation 1](https://github.com/PoojithaMPrasad/Heart-Disease/assets/129121710/d5aabd19-c1d9-4f46-a73a-6ddd6ecf068d)
+
+## Exploratory Analysis
+
+Before Feature Selection, the correlation matrix is visualized.
+![Exploratory analysis](https://github.com/PoojithaMPrasad/Heart-Disease/assets/129121710/de1c8544-9b70-4254-85e7-011559d45dbb)
+
+## Feature Selection 
+
+### P_Value
+![P Value](https://github.com/PoojithaMPrasad/Heart-Disease/assets/129121710/8dfdae7d-4982-49b7-8321-cbaf57f08fb4)
+
+![P Value 1](https://github.com/PoojithaMPrasad/Heart-Disease/assets/129121710/cb7ce0a6-82f2-4091-a232-bf5b2cd046f0)
+
+### Cross Validation
+
+![Cross Validation](https://github.com/PoojithaMPrasad/Heart-Disease/assets/129121710/74df73ac-6f8a-4d88-925b-5a0fd555f7b0)
+
+## Training and Testing 
+It was then necessary to divide the resulting data into 80% train data and 20% test data which was subsequently passed to the LogisticRegression model for the purpose of fitting, predicting and scoring the model.
+
+## Result 
+![Results](https://github.com/PoojithaMPrasad/Heart-Disease/assets/129121710/c8c1470f-0f59-4301-8ae8-3a5cf1985874)
+
+![Results !](https://github.com/PoojithaMPrasad/Heart-Disease/assets/129121710/5f607805-b8be-44da-aebf-644ba17fe892)
+
+
